@@ -1,0 +1,106 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "1912.01603",
+    "url": "https://arxiv.org/abs/1912.01603",
+    "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "video_prediction_rl_survey",
+    "url": "https://arxiv.org/abs/2105.00064",
+    "title": "Video Prediction for Reinforcement Learning: A Survey",
+    "date": "2021-05-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2305.14992",
+    "url": "https://huggingface.co/papers/2305.14992",
+    "title": "Reasoning with Language Model is Planning with World Model",
+    "date": "2023-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "schmitt2024contrastive_world_models",
+    "url": "https://arxiv.org/abs/2409.06739",
+    "title": "Learning World Models with Contrastive Latent Dynamics",
+    "date": "2024-09-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2606.15032",
+    "url": "https://arxiv.org/abs/2606.15032",
+    "title": "How Should World Models Be Evaluated for Embodied Decision-Making?A Decision-Making-Centric Position",
+    "date": "2026-06-28",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2609.29669",
+    "url": "https://arxiv.org/abs/2609.29669",
+    "title": "Do World Models Make Better Robots?",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "world-model-benchmarks",
+    "url": "https://world-model-benchmarks.github.io/World-Model-Benchmarks/",
+    "title": "A Survey of World Model Benchmarks",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "state-of-world-models-2026-v1.0",
+    "url": "https://world-models.io/reports/state-of-world-models-2026/state-of-world-models-2026-v1.0.pdf",
+    "title": "State of World Models 2026: Taxonomy, Benchmarks and Open Challenges",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "world-models-io-ha-schmidhuber",
+    "url": "https://world-models.io/en/models/ha-world-model/",
+    "title": "World Models (Ha & Schmidhuber) | Seminal 2018 Paper |...",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "hafner19a",
+    "url": "https://proceedings.mlr.press/v97/hafner19a.html",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "date": "2019-05-24",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "woven_multimodal_llms_2026",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]

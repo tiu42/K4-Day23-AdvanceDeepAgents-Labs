@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "2402.02716",
+    "url": "https://arxiv.org/abs/2402.02716",
+    "title": "Understanding the planning of LLM agents: A survey",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2406.05804",
+    "url": "https://arxiv.org/abs/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "func-calling-api-updates",
+    "url": "https://platform.openai.com/docs/guides/function-calling",
+    "title": "Function calling and other API updates",
+    "date": "2023-06-13",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "tool-use-works",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works",
+    "title": "How tool use works",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2503.16416",
+    "url": "https://arxiv.org/abs/2503.16416",
+    "title": "A Survey on Evaluation of LLM-based Agents",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2306.06070",
+    "url": "https://arxiv.org/abs/2306.06070",
+    "title": "MIND2WEB: Towards a Generalist Agent for the Web",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "swebench-verified",
+    "url": "https://www.swebench.com/verified",
+    "title": "SWE-bench Verified",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "webarena-verified",
+    "url": "https://benchlm.ai/benchmarks/webarena-verified",
+    "title": "WebArena-Verified Browser Agent Benchmark (WebArena-Verified)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "agentboard",
+    "url": "https://hkust-nlp.github.io/agentboard/static/leaderboard.html",
+    "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2409.09030",
+    "url": "https://arxiv.org/abs/2409.09030",
+    "title": "Agents in Software Engineering: Survey, Landscape, and Vision",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2503.21460",
+    "url": "https://arxiv.org/abs/2503.21460",
+    "title": "Large Language Model Agent: A Survey on Methodology, Applications and Challenges",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2503.16416",
+    "url": "https://huggingface.co/papers/2503.16416",
+    "title": "Survey on Evaluation of LLM-based Agents",
+    "date": "2025-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "os-agents-survey",
+    "url": "https://aclanthology.org/2025.acl-long.369.pdf",
+    "title": "OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

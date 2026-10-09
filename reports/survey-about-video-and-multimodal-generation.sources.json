@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "1904.01766",
+    "url": "https://arxiv.org/abs/1904.01766",
+    "title": "VideoBERT: A Joint Model for Video and Language Representation Learning",
+    "date": "2019-09-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2104.10157",
+    "url": "https://arxiv.org/abs/2104.10157",
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "date": "2021-04-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2405.03150",
+    "url": "https://arxiv.org/abs/2405.03150",
+    "title": "Video Diffusion Models: A Survey",
+    "date": "2024-11-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2411.05902",
+    "url": "https://huggingface.co/papers/2411.05902",
+    "title": "Autoregressive Models in Vision: A Survey",
+    "date": "2024-11-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2505.02567",
+    "url": "https://huggingface.co/papers/2505.02567",
+    "title": "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities",
+    "date": "2025-05-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2205.15868",
+    "url": "https://arxiv.org/abs/2205.15868",
+    "title": "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers",
+    "date": "2022-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2410.19884",
+    "url": "https://arxiv.org/abs/2410.19884",
+    "title": "A Survey of AI-Generated Video Evaluation",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "video-bench-human-aligned-video-generation-benchmark",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Video-Bench_Human-Aligned_Video_Generation_Benchmark_CVPR_2025_paper.pdf",
+    "title": "Video-Bench: Human-Aligned Video Generation Benchmark",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2504.21853",
+    "url": "http://arxiv.org/abs/2504.21853",
+    "title": "A Survey of Interactive Generative Video",
+    "date": "2025-04-30",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "T2VSafetyBench",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/74eed5f568354c2e77dd9b018f38a9d4-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "world-models-acs-2025",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models | ACM Computing Surveys",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2405.19334",
+    "url": "https://arxiv.org/html/2405.19334",
+    "title": "LLMs Meet Multimodal Generation and Editing: A Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "video-generation-survey-acmcs",
+    "url": "https://dl.acm.org/doi/10.1145/3678239",
+    "title": "Video generation: a survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "evo-video-generative-foundations",
+    "url": "https://arxiv.org/html/2604.06339v1",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2504.16081",
+    "url": "https://arxiv.org/abs/2504.16081",
+    "title": "Survey of Video Diffusion Models:Foundations, Implementations, and Applications",
+    "date": "2026-02-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2303.17376",
+    "url": "https://huggingface.co/papers/2303.17376",
+    "title": "A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision",
+    "date": "2023-03-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2410.05203",
+    "url": "https://arxiv.org/abs/2410.05203",
+    "title": "Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality",
+    "date": "2024-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2412.18688",
+    "url": "https://arxiv.org/html/2412.18688",
+    "title": "Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

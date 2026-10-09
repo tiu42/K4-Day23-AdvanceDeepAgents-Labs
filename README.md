@@ -56,6 +56,8 @@ Lab/
 ├── agents.py                 SINH VIÊN CÀI ĐẶT: prompt, subagent, lead agent
 ├── research.py               SINH VIÊN CÀI ĐẶT: script chính
 ├── check_citations.py        SINH VIÊN CÀI ĐẶT: kiểm tra trích dẫn, chạy TRONG sandbox
+├── resolve_citations.py      thêm: đổi trích dẫn [@id] của bản nháp thành [n], chạy TRONG sandbox trước finalizer
+├── tests/                    thêm: test offline (pytest)
 └── reports/                  báo cáo sinh ra (bạn commit vào repo nộp)
 ```
 
@@ -91,6 +93,22 @@ python research.py "survey about world model"
 ```
 
 Kết quả nằm ở `reports/survey-about-world-model.md` cùng `.sources.json` và `.meta.json`.
+
+### Đọc thư mục `reports/`
+
+Mỗi chủ đề sinh ba tệp cùng `<slug>` (ví dụ `survey-about-world-model`); `.md` và `.sources.json` là **đúng bản tải về từ sandbox**:
+
+| Tệp | Nội dung |
+|---|---|
+| `<slug>.md` | Báo cáo: TL;DR, Background, các phần theo chủ đề, Trends and open problems, `## References` (do `finalize_citations.py` sinh trong sandbox). Mỗi `[n]` trỏ tới dòng `[n]` trong References. |
+| `<slug>.sources.json` | Danh sách nguồn `{n, id, url, title, date, source}`; `source` là công cụ đã trả về nguồn (`arxiv`, `hf-daily`, `hf-search`, `web`). |
+| `<slug>.meta.json` | Bằng chứng chạy: `model`, `elapsed_s`, `subagent_calls` (số lần lead gọi `task`), `tool_calls`, `tokens` (chỉ của lead), `n_sources`, `source_families`. |
+
+Kiểm tra lại một báo cáo: `python check_citations.py reports/<slug>.md reports/<slug>.sources.json` (in `OK: ...`), hoặc cả 5 báo cáo: `python self_check.py`.
+
+Test offline (không mạng, không LLM) cho `with_retry`, `slugify`, `check_citations`: `pip install pytest && python -m pytest tests`.
+
+Ghi chú cài đặt của bài nộp: 5 báo cáo được sinh với `LAB_MODEL=openai:gpt-5.4-mini` và `SANDBOX=docker`. Lead viết và sửa bản nháp (`/tmp/work/report/draft.md`, `/tmp/work/research/sources.draft.json`) và trích dẫn bằng **id** của nguồn (`[@2402.03300]`) thay vì số, vì LLM hay ghép nhầm số với nguồn. Trong sandbox, `resolve_citations.py` (của bài nộp, chỉ dùng thư viện chuẩn) đổi `[@id]` thành `[n]` và ghi `report.md`/`sources.json`, sau đó `finalize_citations.py` đánh số lại và sinh `## References`, rồi `check_citations.py` phải in `OK`. Host chỉ kiểm tra lại và lưu nguyên bytes tải về; chạy thất bại thì thoát mã 1 và không ghi gì.
 
 ## 6. Chủ đề và nộp bài
 

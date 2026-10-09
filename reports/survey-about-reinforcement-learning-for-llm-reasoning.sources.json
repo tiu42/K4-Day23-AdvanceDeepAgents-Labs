@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2507.04136",
+    "url": "https://arxiv.org/abs/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "openai-o1-preview",
+    "url": "https://openai.com/index/introducing-openai-o1-preview/",
+    "title": "Introducing OpenAI o1 | OpenAI",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "learning-to-reason-with-llms",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs - OpenAI",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2410.08146",
+    "url": "https://huggingface.co/papers/2410.08146",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+    "date": "2024-10-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "survey-prm-2025",
+    "url": "https://arxiv.org/html/2510.08049v3",
+    "title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2505.02686",
+    "url": "https://arxiv.org/abs/2505.02686",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "deepseek-r1-hf",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "title": "DeepSeek-R1",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "rlvr-boundary",
+    "url": "https://papers.nips.cc/paper_files/paper/2025/file/537d5aa768c2d534016a4d06f87bc8fb-Paper-Conference.pdf",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "rl-reasoning-survey",
+    "url": "https://arxiv.org/html/2501.09686",
+    "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "survey-reward-hacking-llm",
+    "url": "https://openreview.net/pdf?id=ENQrLsePEa",
+    "title": "A Survey of Reward Hacking in Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "instruction-following",
+    "url": "https://openai.com/index/instruction-following/",
+    "title": "Aligning language models to follow instructions",
+    "date": "2022-01-27",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "constitutional-ai-harmlessness-from-ai-feedback",
+    "url": "https://www.anthropic.com/news/constitutional-ai-harmlessness-from-ai-feedback",
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "date": "2022-12-15",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "post-training-llms-survey",
+    "url": "https://arxiv.org/html/2503.06072v3",
+    "title": "A Survey on Post-training of Large Language Models - arXiv",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2412.10400",
+    "url": "https://arxiv.org/abs/2412.10400",
+    "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2407.16216",
+    "url": "https://arxiv.org/abs/2407.16216",
+    "title": "Reinforcement Learning for LLM Post-Training: A Survey - arXiv",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "openai-o1-system-card",
+    "url": "https://openai.com/index/openai-o1-system-card/",
+    "title": "OpenAI o1 System Card",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2412.06827",
+    "url": "https://huggingface.co/papers/2412.06827",
+    "title": "Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback",
+    "date": "2024-12-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2502.06773",
+    "url": "https://huggingface.co/papers/2502.06773",
+    "title": "On the Emergence of Thinking in LLMs I: Searching for the Right Intuition",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "deepseek-r1-nature",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z.pdf",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through ... - Nature",
+    "date": "n.d.",
+    "source": "web"
+  }
+]
